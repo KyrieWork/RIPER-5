@@ -4,9 +4,14 @@
 [![GitHub forks](https://img.shields.io/github/forks/NeekChaw/RIPER-5.svg)](https://github.com/NeekChaw/RIPER-5/network)
 [![GitHub issues](https://img.shields.io/github/issues/NeekChaw/RIPER-5.svg)](https://github.com/NeekChaw/RIPER-5/issues)
 
+<div align="center">
+  <img src="image.png" width="250" alt="公众号二维码">
+  <p><strong>扫码关注我的公众号，获取更多 AI 前沿资讯与实践</strong></p>
+</div>
+
 欢迎来到 AI 提示词工程与工作流集合仓库！本项目旨在收录和展示一系列高质量、结构化的 AI 提示词（Prompts）和工作流（Workflows），专注于提升 AI 在软件开发、代码重构、深度思考和项目管理等领域的协作效率和可靠性。
 
-更多场景优秀prompt请移步repo：[awesome-prompt](https://github.com/NeekChaw/awesome-prompt)
+## 更多场景优秀prompt请移步repo：[awesome-prompt](https://github.com/NeekChaw/awesome-prompt)
 
 ## 仓库核心内容
 
